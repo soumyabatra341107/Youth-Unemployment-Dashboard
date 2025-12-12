@@ -1,7 +1,7 @@
 # Youth Unemployment Data Analysis Dashboard  
 Using MongoDB Atlas, MongoDB Compass, and MongoDB Charts
 
-## 👥 Group Members
+## Group Members
 - **Soumya Batra – 341107**  
 - **Arpita Gupta – 341068**  
 - **Avni Singla – 341071**
@@ -32,7 +32,7 @@ The dataset provides annual youth unemployment percentages for countries across 
 A cloud cluster was created on MongoDB Atlas.
 
 ### Step 2: Data Import
-The CSV dataset was imported into a database named **global_unemployment** and a collection named **youth_unemployment** using MongoDB Compass.
+The CSV dataset was imported into a database named **unemploymentDB** and a collection named **youth_unemployment** using MongoDB Compass.
 
 ### Step 3: Connection to MongoDB Charts
 The database was linked to MongoDB Charts for visualization.
