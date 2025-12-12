@@ -56,7 +56,6 @@ All charts were combined into a single public dashboard.
 These charts cover time-series patterns, rankings, regional differences, and global comparisons.
 
 ## 5. Public Dashboard Link
-Paste your MongoDB Charts public dashboard link here:
 
 **[Dashboard Link](https://charts.mongodb.com/charts-project-0-lixddbm/public/dashboards/d9cc5f5c-9dcf-4e46-9898-ca1bc55051b1#)**
 
